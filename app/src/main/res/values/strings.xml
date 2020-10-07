@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ButterKnifeExample</string>
+    <string name="up">UP</string>
+    <string name="down">down</string>
 </resources>
